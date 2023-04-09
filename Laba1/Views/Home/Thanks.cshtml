@@ -1,0 +1,27 @@
+﻿@model Laba1.Models.GuestResponse
+
+@{
+    ViewBag.Title = "Calculator";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+    Результат: @Model.Result
+    <p>
+        @if (ViewBag.ResultSecond == @Model.Result)
+        {
+            <b>Значение совпадает с результатом вычислений</b>
+        }
+        else
+        {
+            <b>Значение не совпадает с результатом вычислений</b>
+        }
+    </p>
+</body>
+</html>

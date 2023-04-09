@@ -1,0 +1,57 @@
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\obj\Debug\Laba1.csprojResolveAssemblyReference.cache
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\Laba1.dll.config
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\Laba1.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\Laba1.pdb
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\Newtonsoft.Json.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Net.Http.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Net.Http.WebRequest.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.Helpers.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.Mvc.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.Razor.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.WebPages.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.WebPages.Razor.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\Newtonsoft.Json.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Net.Http.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Net.Http.WebRequest.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.Helpers.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.Mvc.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.Razor.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.WebPages.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\bin\System.Web.WebPages.Razor.xml
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\obj\Debug\Laba1.dll
+C:\Users\ADM\Documents\Visual Studio 2013\Projects\Laba1\Laba1\obj\Debug\Laba1.pdb
+F:\Laba1\Laba1\bin\Laba1.dll
+F:\Laba1\Laba1\bin\Laba1.pdb
+F:\Laba1\Laba1\bin\Microsoft.Web.Infrastructure.dll
+F:\Laba1\Laba1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+F:\Laba1\Laba1\bin\Newtonsoft.Json.dll
+F:\Laba1\Laba1\bin\System.Net.Http.dll
+F:\Laba1\Laba1\bin\System.Net.Http.Formatting.dll
+F:\Laba1\Laba1\bin\System.Net.Http.WebRequest.dll
+F:\Laba1\Laba1\bin\System.Web.Helpers.dll
+F:\Laba1\Laba1\bin\System.Web.Http.dll
+F:\Laba1\Laba1\bin\System.Web.Http.WebHost.dll
+F:\Laba1\Laba1\bin\System.Web.Mvc.dll
+F:\Laba1\Laba1\bin\System.Web.Razor.dll
+F:\Laba1\Laba1\bin\System.Web.WebPages.Deployment.dll
+F:\Laba1\Laba1\bin\System.Web.WebPages.dll
+F:\Laba1\Laba1\bin\System.Web.WebPages.Razor.dll
+F:\Laba1\Laba1\bin\Newtonsoft.Json.xml
+F:\Laba1\Laba1\bin\System.Net.Http.xml
+F:\Laba1\Laba1\bin\System.Net.Http.Formatting.xml
+F:\Laba1\Laba1\bin\System.Net.Http.WebRequest.xml
+F:\Laba1\Laba1\bin\System.Web.Helpers.xml
+F:\Laba1\Laba1\bin\System.Web.Http.xml
+F:\Laba1\Laba1\bin\System.Web.Http.WebHost.xml
+F:\Laba1\Laba1\bin\System.Web.Mvc.xml
+F:\Laba1\Laba1\bin\System.Web.Razor.xml
+F:\Laba1\Laba1\bin\System.Web.WebPages.xml
+F:\Laba1\Laba1\bin\System.Web.WebPages.Deployment.xml
+F:\Laba1\Laba1\bin\System.Web.WebPages.Razor.xml
+F:\Laba1\Laba1\obj\Debug\Laba1.csprojResolveAssemblyReference.cache
+F:\Laba1\Laba1\obj\Debug\Laba1.dll
+F:\Laba1\Laba1\obj\Debug\Laba1.pdb

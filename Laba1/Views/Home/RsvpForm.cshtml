@@ -1,0 +1,43 @@
+﻿
+@model Laba1.Models.GuestResponse
+
+@{
+    ViewBag.Title = "Calculator";
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/Content/Site.css" />
+    <title>RsvpForm</title>
+</head>
+<body>
+    @using (Html.BeginForm())
+{
+    <div class="Data">
+        <p>Operand 1: @Html.TextBoxFor(x => x.Operand1, new { @Value = @Model.Operand1 }) </p>
+        @Html.ValidationMessageFor(x => x.Operand1)
+        <p>Operand 2: @Html.TextBoxFor(x => x.Operand2, new { @Value = @Model.Operand2 }) </p>
+        @Html.ValidationMessageFor(x => x.Operand2)
+        <p>
+            @Html.LabelFor(x => x.Operation)
+            @Html.DropDownListFor(x => x.Operation, new List<SelectListItem>{
+                    new SelectListItem() {Text = "+", Value = "+"},
+                    new SelectListItem() {Text = "-", Value = "-"},
+                    new SelectListItem() {Text = "*", Value = "*"},
+                    new SelectListItem() {Text = "/", Value = "/"},
+                })
+        </p>
+    </div>
+        <input class="button" type="submit" name="click" value="calculate" />
+        <input class="button" type="submit" name="click" value="clear" />
+        <p>@Html.ActionLink("Показать уравнение", "Equation")</p>
+
+}
+    
+
+</body>
+</html>
